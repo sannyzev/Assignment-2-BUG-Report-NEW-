@@ -5,4 +5,6 @@ BUG 3: https://bugzilla52.allizgub.org/show_bug.cgi?id=1354
 
 References:
 uTest. (n.d.). AcademyBugs. https://academybugs.com/
+
+
 Allizgub. (n.d.). Bugzilla issue tracking system. https://bugzilla52.allizgub.org/
